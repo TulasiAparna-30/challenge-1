@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Doe - Portfolio</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>John Doe</h1>
+        <p>Web Developer | UI/UX Enthusiast</p>
+        <nav>
+            <a href="#about">About</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm John, a passionate web developer with experience in building responsive and accessible websites. I love turning ideas into real-world applications.</p>
+    </section>
+
+    <hr>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <article>
+            <h3>Portfolio Website</h3>
+            <p>A clean, responsive personal portfolio built using HTML, CSS, and JavaScript.</p>
+            <p><a href="#">View Project</a></p>
+        </article>
+
+        <article>
+            <h3>Weather App</h3>
+            <p>A weather forecast app that shows real-time data using the OpenWeatherMap API.</p>
+            <p><a href="#">View Project</a></p>
+        </article>
+
+    </section>
+
+    <hr>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me at:</p>
+        <ul>
+            <li>Email: johndoe@example.com</li>
+            <li>GitHub: <a href="https://github.com/johndoe">github.com/johndoe</a></li>
+            <li>LinkedIn: <a href="https://linkedin.com/in/johndoe">linkedin.com/in/johndoe</a></li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 John Doe. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
